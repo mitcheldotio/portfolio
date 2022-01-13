@@ -1,1 +1,1 @@
-Sitemap: https://mitcheljcook.github.io/portfolio/sitemap.xml
+Sitemap: https://mitcheljcook.github.io/sitemap.xml
